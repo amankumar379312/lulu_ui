@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lululemon (LULU) Institutional Financial Analysis Terminal",
+  "description": "Production-grade institutional financial intelligence and business quality research terminal for Lululemon Athletica Inc. (LULU), featuring forensic evidence traceability, pricing power diagnostics, moat durability radar, structural vs. cyclical debates, and downside floor valuation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
